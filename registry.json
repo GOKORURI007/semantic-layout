@@ -59,6 +59,194 @@
           "type": "registry:hook"
         }
       ]
+    },
+    {
+      "name": "absolute-center",
+      "type": "registry:component",
+      "title": "Absolute Center",
+      "description": "A component for centering elements absolutely within a container.",
+      "files": [
+        {
+          "path": "registry/new-york/layout/absolute-center/absolute-center.tsx",
+          "type": "registry:component"
+        },
+        {
+          "path": "registry/new-york/layout/absolute-center/absolute-center.stories.tsx",
+          "type": "registry:story"
+        },
+        {
+          "path": "registry/new-york/layout/absolute-center/index.ts",
+          "type": "registry:index"
+        }
+      ]
+    },
+    {
+      "name": "anchor",
+      "type": "registry:component",
+      "title": "Anchor",
+      "description": "A component for creating anchor links.",
+      "files": [
+        {
+          "path": "registry/new-york/layout/anchor/anchor.tsx",
+          "type": "registry:component"
+        },
+        {
+          "path": "registry/new-york/layout/anchor/anchor.stories.tsx",
+          "type": "registry:story"
+        },
+        {
+          "path": "registry/new-york/layout/anchor/index.ts",
+          "type": "registry:index"
+        }
+      ]
+    },
+    {
+      "name": "box",
+      "type": "registry:component",
+      "title": "Box",
+      "description": "A basic layout component for creating boxes.",
+      "files": [
+        {
+          "path": "registry/new-york/layout/box/box.tsx",
+          "type": "registry:component"
+        },
+        {
+          "path": "registry/new-york/layout/box/box.stories.tsx",
+          "type": "registry:story"
+        },
+        {
+          "path": "registry/new-york/layout/box/index.ts",
+          "type": "registry:index"
+        }
+      ]
+    },
+    {
+      "name": "center",
+      "type": "registry:component",
+      "title": "Center",
+      "description": "A component for centering elements.",
+      "files": [
+        {
+          "path": "registry/new-york/layout/center/center.tsx",
+          "type": "registry:component"
+        },
+        {
+          "path": "registry/new-york/layout/center/center.stories.tsx",
+          "type": "registry:story"
+        },
+        {
+          "path": "registry/new-york/layout/center/index.ts",
+          "type": "registry:index"
+        }
+      ]
+    },
+    {
+      "name": "flex",
+      "type": "registry:component",
+      "title": "Flex",
+      "description": "A flexible layout component using flexbox.",
+      "files": [
+        {
+          "path": "registry/new-york/layout/flex/flex.tsx",
+          "type": "registry:component"
+        },
+        {
+          "path": "registry/new-york/layout/flex/flex.stories.tsx",
+          "type": "registry:story"
+        },
+        {
+          "path": "registry/new-york/layout/flex/index.ts",
+          "type": "registry:index"
+        }
+      ]
+    },
+    {
+      "name": "grid",
+      "type": "registry:component",
+      "title": "Grid",
+      "description": "A grid layout component.",
+      "files": [
+        {
+          "path": "registry/new-york/layout/grid/grid.tsx",
+          "type": "registry:component"
+        },
+        {
+          "path": "registry/new-york/layout/grid/grid.stories.tsx",
+          "type": "registry:story"
+        },
+        {
+          "path": "registry/new-york/layout/grid/index.ts",
+          "type": "registry:index"
+        }
+      ]
+    },
+    {
+      "name": "spacer",
+      "type": "registry:component",
+      "title": "Spacer",
+      "description": "A component for adding space between elements.",
+      "files": [
+        {
+          "path": "registry/new-york/layout/spacer/spacer.tsx",
+          "type": "registry:component"
+        },
+        {
+          "path": "registry/new-york/layout/spacer/spacer.stories.tsx",
+          "type": "registry:story"
+        },
+        {
+          "path": "registry/new-york/layout/spacer/index.ts",
+          "type": "registry:index"
+        }
+      ]
+    },
+    {
+      "name": "theme",
+      "type": "registry:component",
+      "title": "Theme",
+      "description": "Components for theme management.",
+      "files": [
+        {
+          "path": "registry/new-york/theme/theme-provider.tsx",
+          "type": "registry:component"
+        },
+        {
+          "path": "registry/new-york/theme/theme-toggle.tsx",
+          "type": "registry:component"
+        },
+        {
+          "path": "registry/new-york/theme/theme.stories.tsx",
+          "type": "registry:story"
+        },
+        {
+          "path": "registry/new-york/theme/index.ts",
+          "type": "registry:index"
+        }
+      ]
+    },
+    {
+      "name": "titlebar",
+      "type": "registry:component",
+      "title": "Titlebar",
+      "description": "A component for creating application titlebars.",
+      "files": [
+        {
+          "path": "registry/new-york/titlebar/titlebar.tsx",
+          "type": "registry:component"
+        },
+        {
+          "path": "registry/new-york/titlebar/titlebar-control-button.tsx",
+          "type": "registry:component"
+        },
+        {
+          "path": "registry/new-york/titlebar/titlebar.stories.tsx",
+          "type": "registry:story"
+        },
+        {
+          "path": "registry/new-york/titlebar/index.ts",
+          "type": "registry:index"
+        }
+      ]
     }
   ]
 }
